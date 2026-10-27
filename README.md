@@ -1,4 +1,4 @@
-# KAWA Android Scoring & On-Device Inference
+# Android Scoring & On-Device Inference
 
 *A personal portfolio case study of a team-built Android product. It contains no company source code, model weights, customer data, internal endpoints, credentials, or deployment configuration.*
 
