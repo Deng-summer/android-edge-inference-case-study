@@ -2,6 +2,12 @@
 
 *A personal portfolio case study of a team-built Android product. It contains no company source code, model weights, customer data, internal endpoints, credentials, or deployment configuration.*
 
+## Demo
+
+[![Android scoring session preview](media/android-scoring-preview.png)](media/android-scoring-demo.mp4)
+
+[Watch the 26-second Android scoring demo](media/android-scoring-demo.mp4). The recording shows a device connection test, a live camera preview, on-device detection boxes, and an active recording state. It is a product workflow demonstration, not a benchmark of recognition accuracy, frame rate, or driving score quality. The clip was supplied for this portfolio by a project contributor.
+
 ## What the product does
 
 The Android app supports an in-vehicle scoring session: preparing the device and camera, capturing a live stream, running visual recognition on the phone, collecting sensor and session data, and sending the resulting records for later review. “Scoring” here means evaluating a driving session; it is not a published hardware benchmark score.
@@ -34,7 +40,9 @@ I worked on the application and integration side of this broader team product, i
 
 ## Evidence and limits
 
-This case study is based on the local Android project and its technical documentation. The workflow and stack above are supported by the implementation. I have not published device-specific latency, FPS, accuracy, or scoring results because I do not have a verified, shareable benchmark record with the device, model version, input size, and measurement method.
+This case study is based on the local Android project, its technical documentation, and the linked demo recording. The workflow and stack above are supported by the implementation. I have not published device-specific latency, FPS, accuracy, or scoring results because I do not have a verified, shareable benchmark record with the device, model version, input size, and measurement method.
+
+The original application and model source remain private because they include confidential project material. A separately reviewed, non-confidential sample may be released later; this repository currently contains only the case study and demo media.
 
 For a suitable walkthrough, please contact me through my [GitHub profile](https://github.com/Deng-summer).
 
